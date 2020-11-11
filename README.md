@@ -1,6 +1,6 @@
 ### Hi, I'm Peter 👋
 
-- 🌱 I’m currently learning JavaScript, Java and C#
+- 🌱 Very much a beginner in this whole software thing. I’m currently learning JavaScript, Java and C#.
 - 📫 You can find me on Twitter - https://twitter.com/peterHinchDev
 
 <!--
