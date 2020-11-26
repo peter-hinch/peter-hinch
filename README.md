@@ -1,7 +1,7 @@
 ### Hi, I'm Peter 👋
 
 - 🌱 Very much a beginner in this whole software thing. I’m currently learning JavaScript, Java and C#.
-- 📫 You can find me on Twitter - https://twitter.com/peterHinchDev
+- 📫 You can find me on Twitter - https://twitter.com/petehinchcodes
 
 <!--
 **peter-hinch/peter-hinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
