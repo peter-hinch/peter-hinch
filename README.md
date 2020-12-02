@@ -1,6 +1,7 @@
 ### Hi, I'm Peter 👋
 
-- 🌱 Very much a beginner in this whole software thing. I’m currently learning JavaScript, Java and C#.
+- 🌱 I’m currently learning JavaScript, Java and C# in my course at Certificate IV level in Melbourne, Australia. I'm working through CS50 over the Christmas break, and enjoying learning more about C. Also very interested in developing a greater knowledge about JavaScript and web development - tinkering with Node.js, React, Gatsby, etc.
+
 - 📫 You can find me on Twitter - https://twitter.com/petehinchcodes
 
 <!--
