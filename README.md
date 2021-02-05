@@ -1,6 +1,6 @@
 ### Hi, I'm Peter 👋
 
-- 🌱 I’m currently learning JavaScript, Java and C# in my course at Certificate IV level in Melbourne, Australia. Very interested in developing a greater knowledge about JavaScript and web development - currently working through freeCodeCamp and The Odin Project to learn a little more outside of class.
+- 🌱 I’m currently learning JavaScript, Java and C# in my course at Certificate IV and Diploma level in Melbourne, Australia. Very interested in developing a greater knowledge about JavaScript and web development - currently working through freeCodeCamp and The Odin Project to learn a little more outside of class.
 
 - 📫 You can find me on Twitter - https://twitter.com/petehinchcodes
 
