@@ -1,8 +1,8 @@
 ### Hi, I'm Peter 👋
 
-- 🌱 I’m currently learning JavaScript, Java and C# in my course at Diploma level in Melbourne, Australia having recently completed Certificate IV level study. Very interested in developing a greater knowledge about JavaScript and Web Development - At the moment I am working through a few personal projects to further my skills in these areas.
+- 🌱 I’m currently learning JavaScript, Java and C# in my course at diploma level in Melbourne, Australia having recently completed Certificate IV level study. Very interested in developing a greater knowledge about JavaScript and Web Development - At the moment I am working through a few personal projects to further my skills in these areas.
 
-- 🔭 I’m currently working on my personal portfolio.
+- 🔭 I’m currently working on a capstone group project, which is a web store developed in C# .NET.
 
 - 📫 You can find me on Twitter - https://twitter.com/petehinchcodes
 
