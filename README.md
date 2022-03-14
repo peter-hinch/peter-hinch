@@ -19,3 +19,11 @@ I set myself the task of creating a piano keyboard using CSS with the requiremen
 https://github.com/peter-hinch/personal-web-audio-api-piano
 
 https://peter-hinch.github.io/personal-web-audio-api-piano/
+
+#### E-Commerce Site SD Perfumery
+
+![E-Commerce Site SD Perfumery](https://user-images.githubusercontent.com/62582081/158089222-b8740171-338a-4b52-b930-40c3ce7143e2.png)
+
+Our capstone project for Diploma of Software Development. This project was developed in .NET using the MVC design pattern and integrated with the Stripe payments API. My responsibilities in this project included project management and database design and integration.
+
+https://github.com/SD-Perfumery-DevTeam/SDP_MVC
