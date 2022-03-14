@@ -1,16 +1,22 @@
 ### Hi, I'm Peter - a Frontend Developer focusing on JavaScript and React
-<!--
-- 🌱 I’m currently learning JavaScript, Java and C# in my course at diploma level in Melbourne, Australia having recently completed Certificate IV level study. Very interested in developing a greater knowledge about JavaScript and Web Development - At the moment I am working through a few personal projects to further my skills in these areas.
+
+### Recent Projects
+
+#### Web Audio API Piano
+![Web Audio API Piano](https://user-images.githubusercontent.com/62582081/158084845-8c711b06-1993-4d63-890f-81752c94d4db.png)
+
+I set myself the task of creating a piano keyboard using CSS with the requirement that it retains realistic proportions and keys overlap as they would on a real piano. I am also interested in learning about how to synthesize sounds in the browser, and this was my introduction to the Web Audio API - something I hope to continue learning more about in future.
+
+https://github.com/peter-hinch/personal-web-audio-api-piano
+
+https://peter-hinch.github.io/personal-web-audio-api-piano/
 
 
-**peter-hinch/peter-hinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### React Todo List
+![React Todo List](https://user-images.githubusercontent.com/62582081/158084900-7397dd14-4d9a-426e-8c62-5ecef7c67c0a.png)
 
-Here are some ideas to get you started:
+In our React Development course at General Assembly we were tasked with creating a Todo list in React. I wanted to create a skeumorphic interpretation of a real notebook page, so I took photos of paper and an eraser to incorporate them into the design. The font used is Sriracha from Google Fonts, the accompanying UI elements I created SVGs from hand-drawn images to match the look and feel of the Sriracha font.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+https://github.com/peter-hinch/general-assembly-react-todo-list
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://peter-hinch.github.io/general-assembly-react-todo-list/
