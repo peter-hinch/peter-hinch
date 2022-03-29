@@ -1,5 +1,15 @@
 ### Hi, I'm Peter - a Frontend Developer focusing on JavaScript and React
 
+## Current Projects
+
+### Ratings Application in React
+
+For the final project in my React Development course, I have chosen to create an application that allows users to rate businesses and venues aginst their suitability as a remote working venue. Basic information about each venue is retrieved from the Google Places API and users are able to add their remote work specific review information within the application.
+
+![Ratings Application in React](https://user-images.githubusercontent.com/62582081/160515490-179368fa-dc86-4408-9b42-94909b1d5fd2.png)
+
+https://github.com/peter-hinch/general-assembly-react-final-project
+
 ## Recent Projects
 
 ### React Todo List
