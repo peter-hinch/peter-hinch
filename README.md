@@ -2,6 +2,16 @@
 
 ## Current Projects
 
+### Material Design 3 Colour Palette Generator
+
+While working on my personal portfolio, I found myself with the need for an easy way to generate a colour scheme that is pleasant to look at and accessible. I am a fan of Google's Material Design and wanted to be able to create a colour palette using the new Material Design 3 colour theory. The main feature I was after which is not present in Google's official palette generator is live colour updates as changes are made to HSL (hue, saturation and lightness) values. My palette generator uses React state to handle HSL values which are rendered live in the UI as they are altered. Colours and tonal variations can then be copied to the clipboard for use in your preferred editor.
+
+![Material Design 3 Colour Palette Generator](https://user-images.githubusercontent.com/62582081/166190110-294895da-9d78-4724-b31b-1483165193f8.png)
+
+https://github.com/peter-hinch/personal-material-palette-generator
+
+https://peter-hinch.github.io/personal-material-palette-generator/
+
 ### Ratings Application in React
 
 For the final project in my React Development course, I have chosen to create an application that allows users to rate businesses and venues aginst their suitability as a remote working venue. Basic information about each venue is retrieved from the Google Places API and users are able to add their remote work specific review information within the application.
