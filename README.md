@@ -16,7 +16,7 @@ For the final project in my React Development course, I have chosen to create an
 
 [![Material Design 3 Colour Palette Generator](https://user-images.githubusercontent.com/62582081/166190110-294895da-9d78-4724-b31b-1483165193f8.png)](https://peter-hinch.github.io/personal-material-palette-generator/)
 
-When using Google's Matterial Design 3 colour palette generator one feature I found wanting is the lack live colour updates. My palette generator uses React state to handle HSL values which are rendered live in the UI as they are altered. Colours and tonal variations can then be copied to the clipboard for use in your preferred editor.
+When using Google's Material Design 3 colour palette generator one feature I found wanting is the lack of live colour updates. My palette generator uses React state to handle HSL values which are rendered live in the UI as they are altered. Colours and tonal variations can then be copied to the clipboard for use in your preferred editor.
 
 [Colour Palette Generator live deployment](https://peter-hinch.github.io/personal-material-palette-generator/)
 
